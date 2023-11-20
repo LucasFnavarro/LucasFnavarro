@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hello%2C+World. I'm+Lucas+Navarro;%3C+Web+developer+%2F%3E" alt="Typing SVG" />
 </div>
-  <img src="ce2614ef4c70f04a2c578f972308f5b6.gif" alt="Gif">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118318155/284219518-46963798-b037-4dc5-bb8d-be4f59035461.gif" alt="Gif">
 
 
 ## Sobre mim
