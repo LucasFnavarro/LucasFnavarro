@@ -1,14 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hello%2C+World. I'm+Lucas+Navarro;%3C+Web+developer+%2F%3E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hello%2C+World. I'm+Lucas+Navarro;%3C+Web+developer+%2F%3E" alt="Typing SVG" /> <br>
+ <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118318155/284219518-46963798-b037-4dc5-bb8d-be4f59035461.gif" widht="250" height="250" alt="Gif">
 </div>
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118318155/284219518-46963798-b037-4dc5-bb8d-be4f59035461.gif" alt="Gif">
 
+< >
 
 ## Sobre mim
 Minha jornada como desenvolvedor Full-Stack é guiada pelo compromisso com a constante aprendizagem. Meu objetivo é tornar a vida das pessoas mais simples e eficaz, aplicando a tecnologia de forma prática. Cada linha de código que escrevo é um passo em direção a um mundo mais conectado.
 
 ### 
 Estou aberto a oportunidades que me permitam criar soluções e enfrentar novos desafios.
+
+<img src="https://github.com/LucasFnavarro/LucasFnavarro/assets/118318155/bc243402-5cb7-4f99-aff0-01396f538127" widht="200" height="250" alt="Gif">
 
 ## Main Tecnologies
 <div style="display: inline_block"><br>
