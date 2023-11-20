@@ -44,4 +44,4 @@ Estou aberto a oportunidades que me permitam criar soluções e enfrentar novos 
 <div align="center">
 
 </div>
-<img src="https://github.com/LucasFnavarro/LucasFnavarro/assets/118318155/ab6ed59f-cadb-4171-b3b9-11cf20e2a31b" height="250" widht="180" />
+<img src="https://github.com/LucasFnavarro/LucasFnavarro/assets/118318155/ab6ed59f-cadb-4171-b3b9-11cf20e2a31b" height="200" widht="300" />
