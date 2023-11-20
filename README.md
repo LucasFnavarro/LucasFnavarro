@@ -36,18 +36,14 @@ Minha jornada como desenvolvedor Full-Stack é guiada pelo compromisso com a con
 
 <br><br>
 
+<div align="center">
 🎯 Contact me 🎯
+</div> <br>
 
 <div align="center"> 
    <a href="https://www.linkedin.com/in/lucas-scquiavon-359718248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href = "mailto:navarrolucas0009@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-      
-  
-
- 
- 
+<br>
 <div align="center">
-
-</div>
 <img src="https://github.com/LucasFnavarro/LucasFnavarro/assets/118318155/ab6ed59f-cadb-4171-b3b9-11cf20e2a31b" height="200" widht="300" />
+</div>
