@@ -21,7 +21,9 @@ Minha jornada como desenvolvedor Full-Stack é guiada pelo compromisso com a con
 ### 
 Estou aberto a oportunidades que me permitam criar soluções e enfrentar novos desafios.
 
-<img src="https://github.com/LucasFnavarro/LucasFnavarro/assets/118318155/bc243402-5cb7-4f99-aff0-01396f538127" widht="200" height="250" alt="Gif">
+<div align="center">
+<img src="https://github.com/LucasFnavarro/LucasFnavarro/assets/118318155/c285144e-92c7-44fa-a7de-2f25196b5c52" widht="250" height="250" alt="Gif">
+</div>
 
                                                                                
 </div>
