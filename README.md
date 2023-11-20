@@ -5,6 +5,13 @@
 
 < >
 
+## Main Tecnologies
+<div style="display: inline_block"><br>
+    <img align="center" alt="HTML5" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> 
+   <img align="center" alt="CSS3" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+   <img align="center" alt="JavaScript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+</div>
+
 ## Sobre mim
 Minha jornada como desenvolvedor Full-Stack é guiada pelo compromisso com a constante aprendizagem. Meu objetivo é tornar a vida das pessoas mais simples e eficaz, aplicando a tecnologia de forma prática. Cada linha de código que escrevo é um passo em direção a um mundo mais conectado.
 
@@ -13,12 +20,6 @@ Estou aberto a oportunidades que me permitam criar soluções e enfrentar novos 
 
 <img src="https://github.com/LucasFnavarro/LucasFnavarro/assets/118318155/bc243402-5cb7-4f99-aff0-01396f538127" widht="200" height="250" alt="Gif">
 
-## Main Tecnologies
-<div style="display: inline_block"><br>
-    <img align="center" alt="HTML5" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> 
-   <img align="center" alt="CSS3" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-   <img align="center" alt="JavaScript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-</div>
                                                                                
 </div>
 
