@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hello%2C+World. I'm+Lucas+Navarro;%3C+Web+developer+%2F%3E" alt="Typing SVG" /> <br>
- <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118318155/284219518-46963798-b037-4dc5-bb8d-be4f59035461.gif" widht="250" height="250" alt="Gif">
+ <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118318155/284219518-46963798-b037-4dc5-bb8d-be4f59035461.gif" widht="200" height="200" alt="Gif">
 </div>
 
 < >
