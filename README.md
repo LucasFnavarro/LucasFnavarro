@@ -5,7 +5,7 @@
 
 < >
 
-##📚 Main Tecnologies 📚
+📚 Main Tecnologies 📚
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML5" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"/> 
    <img align="center" alt="CSS3" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
@@ -15,11 +15,10 @@
 </div>
 
 
-## Sobre mim
+🤓 Sobre mim 🤓
 Minha jornada como desenvolvedor Full-Stack é guiada pelo compromisso com a constante aprendizagem. Meu objetivo é tornar a vida das pessoas mais simples e eficaz, aplicando a tecnologia de forma prática. Cada linha de código que escrevo é um passo em direção a um mundo mais conectado.
 
-### 
-Estou aberto a oportunidades que me permitam criar soluções e enfrentar novos desafios.
+💡 Estou aberto a oportunidades que me permitam criar soluções e enfrentar novos desafios.
 
 <div align="center">
 <img src="https://github.com/LucasFnavarro/LucasFnavarro/assets/118318155/83b615b7-a2ba-4956-a599-ed2d4a63604e" widht="250" height="250" alt="Gif">
@@ -30,7 +29,7 @@ Estou aberto a oportunidades que me permitam criar soluções e enfrentar novos 
 
 <br><br>
 
-## Contact me 
+🎯 Contact me 🎯
 
 <div align="center"> 
    <a href="https://www.linkedin.com/in/lucas-scquiavon-359718248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
