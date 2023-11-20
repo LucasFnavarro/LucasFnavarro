@@ -3,10 +3,10 @@
  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118318155/284230245-3cd8d013-4190-46ac-a0cf-763e1ba24f96.gif" widht="200" height="200" alt="Gif">
 </div>
 
-< >
-
+<div align="center">
 📚 Main Tecnologies 📚
-<div style="display: inline_block"><br>
+</div>
+<div style="display: inline_block" align="center"><br>
     <img align="center" alt="HTML5" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"/> 
    <img align="center" alt="CSS3" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
    <img align="center" alt="JavaScript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
@@ -16,10 +16,16 @@
 
 <br>
 
-🤓 Sobre mim 🤓
-Minha jornada como desenvolvedor Full-Stack é guiada pelo compromisso com a constante aprendizagem. Meu objetivo é tornar a vida das pessoas mais simples e eficaz, aplicando a tecnologia de forma prática. Cada linha de código que escrevo é um passo em direção a um mundo mais conectado.
+<div align="center">
+🤓 Sobre mim  <br>
 
+  
+Minha jornada como desenvolvedor Full-Stack é guiada pelo compromisso com a constante aprendizagem. Meu objetivo é tornar a vida das pessoas mais simples e eficaz, aplicando a tecnologia de forma prática. Cada linha de código que escrevo é um passo em direção a um mundo mais conectado.
+</div>
+
+<div align="center">
 💡 Estou aberto a oportunidades que me permitam criar soluções e enfrentar novos desafios.
+</div><br>
 
 <div align="center">
 <img src="https://github.com/LucasFnavarro/LucasFnavarro/assets/118318155/83b615b7-a2ba-4956-a599-ed2d4a63604e" widht="250" height="250" alt="Gif">
