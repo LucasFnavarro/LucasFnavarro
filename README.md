@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-🤓 Sobre mim  <br>
+🤓 Sobre mim  <br/>
 
 <div align="center">
   <img src="https://github.com/LucasFnavarro/LucasFnavarro/assets/118318155/c79018f6-30a6-418a-9083-3a47789d3e74" widht="250" height="250" alt="GifSheldon">
@@ -28,7 +28,7 @@ Minha jornada como desenvolvedor Full-Stack é guiada pelo compromisso com a con
 
 <div align="center">
 💡 Estou aberto a oportunidades que me permitam criar soluções e enfrentar novos desafios.
-</div><br>
+</div><br/>
 
 <div align="center">
 <img src="https://github.com/LucasFnavarro/LucasFnavarro/assets/118318155/9c36460e-c401-4054-a208-66771b5db199" widht="250" height="250" alt="Gif">
@@ -37,11 +37,11 @@ Minha jornada como desenvolvedor Full-Stack é guiada pelo compromisso com a con
                                                                                
 </div>
 
-<br><br>
+<br><br/>
 
 <div align="center">
 🎯 Contact me 🎯
-</div> <br>
+</div> <br/>
 
 <div align="center"> 
    <a href="https://www.linkedin.com/in/lucas-scquiavon-359718248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
