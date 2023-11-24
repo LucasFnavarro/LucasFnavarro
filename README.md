@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-🤓 Sobre mim  <br/>
+🤓 Sobre mim 🤓 <br/>
   
 Minha jornada como desenvolvedor Full-Stack é guiada pelo compromisso com a constante aprendizagem. Meu objetivo é tornar a vida das pessoas mais simples e eficaz, aplicando a tecnologia de forma prática. Cada linha de código que escrevo é um passo em direção a um mundo mais conectado.
 </div><br/>
