@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hello%2C+I'm+Lucas+Navarro;%3C+Full-Stack+developer+%2F%3E" alt="Typing SVG" /> <br/>
- <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118318155/284230245-3cd8d013-4190-46ac-a0cf-763e1ba24f96.gif" widht="300" height="300" alt="Gif">
+ <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118318155/284230245-3cd8d013-4190-46ac-a0cf-763e1ba24f96.gif" widht="200" height="200" alt="Gif">
 </div> <br/><br/>
 
 <div align="center">
@@ -27,7 +27,7 @@ Minha jornada como desenvolvedor Full-Stack é guiada pelo compromisso com a con
 </div><br/>
 
 <div align="center">
-  <img src="https://github.com/LucasFnavarro/LucasFnavarro/assets/118318155/c79018f6-30a6-418a-9083-3a47789d3e74" widht="250" height="250" alt="GifSheldon">
+  <img src="https://github.com/LucasFnavarro/LucasFnavarro/assets/118318155/c79018f6-30a6-418a-9083-3a47789d3e74" widht="200" height="200" alt="GifSheldon">
 </div>
                                                                                
 </div>
@@ -41,5 +41,5 @@ Minha jornada como desenvolvedor Full-Stack é guiada pelo compromisso com a con
      <a href = "mailto:navarrolucas0009@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> <br/><br/>
 <div align="center">
-<img src="https://github.com/LucasFnavarro/LucasFnavarro/assets/118318155/ab6ed59f-cadb-4171-b3b9-11cf20e2a31b" height="200" widht="300" />
+<img src="https://github.com/LucasFnavarro/LucasFnavarro/assets/118318155/ab6ed59f-cadb-4171-b3b9-11cf20e2a31b" height="200" widht="200" />
 </div>
