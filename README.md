@@ -19,6 +19,9 @@
 <div align="center">
 🤓 Sobre mim  <br>
 
+<div align="center">
+  <img src="https://github.com/LucasFnavarro/LucasFnavarro/assets/118318155/c79018f6-30a6-418a-9083-3a47789d3e74" widht="250" height="250" alt="GifSheldon">
+</div>
   
 Minha jornada como desenvolvedor Full-Stack é guiada pelo compromisso com a constante aprendizagem. Meu objetivo é tornar a vida das pessoas mais simples e eficaz, aplicando a tecnologia de forma prática. Cada linha de código que escrevo é um passo em direção a um mundo mais conectado.
 </div>
