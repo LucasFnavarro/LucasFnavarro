@@ -28,9 +28,9 @@ Minha jornada como desenvolvedor Full-Stack é guiada pelo compromisso com a con
 
 <div align="center">
   <img src="https://github.com/LucasFnavarro/LucasFnavarro/assets/118318155/c79018f6-30a6-418a-9083-3a47789d3e74" widht="200" height="200" alt="GifSheldon">
-</div>
+</div> <br/>
                                                                                
-</div>
+</div><!--- DIV PRINCIPAL CONTAINER---->
 
 <div align="center">
 🎯 Contact me 🎯
