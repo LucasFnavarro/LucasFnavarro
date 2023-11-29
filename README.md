@@ -14,7 +14,7 @@
 <br/>
 <div align="center"> 📚 Aprendendo Atualmente 📚</div>
 
-<div>
+<div align="center">
 <img align="center" alt="Java" height="40" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Kotlin" height="40" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg">
 </div>
