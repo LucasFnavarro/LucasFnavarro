@@ -12,8 +12,11 @@
      <img align="center" alt="JavaScript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div>
 <br/>
-<div> 📚 Aprendendo Atualmente 📚
+<div> 📚 Aprendendo Atualmente 📚</div>
+
+<div>
 <img align="center" alt="Java" height="40" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Kotlin" height="40" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg">
 </div>
 
 <br>
