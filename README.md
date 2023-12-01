@@ -4,7 +4,7 @@
 </div> <br/><br/>
 
 <div align="center">
-📚 Main Tecnologies 📚
+📚 Main Tecnologies 
 </div>
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="HTML5" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"/> 
@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-🤓 Sobre mim 🤓 <br/>
+🤓 Sobre mim  <br/>
   
 Minha jornada como desenvolvedor Full-Stack é guiada pelo compromisso com a constante aprendizagem. Meu objetivo é tornar a vida das pessoas mais simples e eficaz, aplicando a tecnologia de forma prática. Cada linha de código que escrevo é um passo em direção a um mundo mais conectado.
 </div><br/>
