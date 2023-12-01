@@ -15,9 +15,8 @@
 <div align="center"> 📚 Aprendendo atualmente 📚</div> <br/>
 
 <div align="center">
-<img align="center" alt="Java" height="60" widht="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-<img align="center" alt="Kotlin" height="60" widht="60" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg">
-<img align="center" alt="Kotlin" height="60" widht="60" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg">
+<img align="center" alt="Php" height="60" widht="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+<img align="center" alt="MySQL" height="60" widht="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 <br>
