@@ -9,15 +9,14 @@
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="HTML5" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"/> 
    <img align="center" alt="CSS3" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-     <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Php" height="60" widht="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+<img align="center" alt="MySQL" height="60" widht="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 <br/>
 <div align="center"> 📚 Aprendendo atualmente 📚</div> <br/>
 
 <div align="center">
-<img align="center" alt="Php" height="60" widht="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-<img align="center" alt="MySQL" height="60" widht="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Java" height="60" widht="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+       <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div>
 
 <br>
