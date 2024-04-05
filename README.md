@@ -16,7 +16,9 @@
 <div align="center"> 📚 Aprendendo atualmente 📚</div> <br/>
 
 <div align="center">
-       <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+       <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
+       <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
+  
 </div>
 
 <br>
