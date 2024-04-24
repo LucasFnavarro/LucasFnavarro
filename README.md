@@ -17,7 +17,6 @@
 
 <div align="center">
        <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
-       <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
        <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
 </div>
 
