@@ -3,7 +3,7 @@
   </div> <br/><br/>
   
   <div align="center">
-  📚 Main Tecnologies 
+  📚 Main Tecnologies 📚
   </div>
   <div style="display: inline_block" align="center"><br>
       <img align="center" alt="HTML5" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"/> 
