@@ -22,6 +22,8 @@
          <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
          <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
          <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+         <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+      
   </div>
   <br>
   <div align="center">
