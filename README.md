@@ -13,13 +13,15 @@
         <img align="center" alt="Nodejs" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
       <img align="center" alt="MySQL" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
       <img align="center" alt="MongoDB" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
-  </div>
+      <img align="center" alt="MongoDB" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
+     </div>
   <br/>
   <div align="center"> 📚 Aprendendo atualmente 📚</div> <br/>
   
   <div align="center">
          <img align="center" alt="Mongoose" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg">
          <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+         <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
   </div>
   
   <br>
