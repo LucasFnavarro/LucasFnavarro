@@ -15,19 +15,20 @@
       <img align="center" alt="MongoDB" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
      </div>
   <br/>
-  <div align="center"> 📚 Aprendendo atualmente 📚</div> <br/>
+  <div align="center"> 📚 Currently learning 📚</div> <br/>
   
   <div align="center">
          <img align="center" alt="Mongoose" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg">
          <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
          <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
+         <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   </div>
   <br>
   <div align="center">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118318155/284230245-3cd8d013-4190-46ac-a0cf-763e1ba24f96.gif" widht="200" height="200" alt="Gif">
   </div>
   <div align="center">
-  🤓 Sobre mim  <br/>
+  🤓 About me  <br/>
     
   Minha jornada como desenvolvedor Full-Stack é guiada pelo compromisso com a constante aprendizagem. Meu objetivo é tornar a vida das pessoas mais simples e eficaz, aplicando a tecnologia de forma prática. Cada linha de código que escrevo é um passo em direção a um mundo mais conectado.
   </div><br/>
