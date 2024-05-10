@@ -22,9 +22,9 @@
          <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
          <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
   </div>
+  <div align="center">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118318155/284230245-3cd8d013-4190-46ac-a0cf-763e1ba24f96.gif" widht="200" height="200" alt="Gif">
-  <br>
-  
+  </div>
   <div align="center">
   🤓 Sobre mim  <br/>
     
