@@ -1,6 +1,5 @@
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hello%2C+I'm+Lucas+Navarro;%3C+Full-Stack+developer+%2F%3E" alt="Typing SVG" /> <br/>
-   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118318155/284230245-3cd8d013-4190-46ac-a0cf-763e1ba24f96.gif" widht="200" height="200" alt="Gif">
   </div> <br/><br/>
   
   <div align="center">
@@ -23,7 +22,7 @@
          <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
          <img align="center" alt="JavaScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
   </div>
-  
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118318155/284230245-3cd8d013-4190-46ac-a0cf-763e1ba24f96.gif" widht="200" height="200" alt="Gif">
   <br>
   
   <div align="center">
