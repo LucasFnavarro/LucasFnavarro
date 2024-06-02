@@ -6,13 +6,7 @@
   📚 Main Tecnologies 📚
   </div>
   <div style="display: inline_block" align="center"><br>
-      <img align="center" alt="HTML5" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"/> 
-     <img align="center" alt="CSS3" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-    <img align="center" alt="Nodejs" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-        <img align="center" alt="Nodejs" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
-      <img align="center" alt="MySQL" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-      <img align="center" alt="MongoDB" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
-      <img align="center" alt="MongoDB" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
+      <img align="center" alt="dotnet" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"/> 
      </div>
   <br/>
   <div align="center"> 📚 Currently learning 📚</div> <br/>
