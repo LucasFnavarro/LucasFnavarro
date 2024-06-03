@@ -11,7 +11,7 @@
      </div>
   <br/>
   <div align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118318155/284230245-3cd8d013-4190-46ac-a0cf-763e1ba24f96.gif" widht="200" height="200" alt="Gif">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118318155/284230245-3cd8d013-4190-46ac-a0cf-763e1ba24f96.gif" widht="250" height="250" alt="Gif">
   </div>
   <div align="center">
   🤓 About me  <br/>
