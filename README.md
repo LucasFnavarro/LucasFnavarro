@@ -6,8 +6,8 @@
   📚 Main Tecnologies 📚
   </div>
   <div style="display: inline_block" align="center"><br>
-      <img align="center" alt="dotnet" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"/> 
-      <img align="center" alt="dotnet" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-line-wordmark.svg"/> 
+      <img align="center" alt="dotnet" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"/> 
+      <img align="center" alt="dotnet" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-line-wordmark.svg"/> 
      </div>
   <br/>
   <div align="center">
