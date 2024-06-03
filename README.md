@@ -16,7 +16,7 @@
   <div align="center">
   🤓 About me  <br/>
     
-  Minha jornada como desenvolvedor Full-Stack Web, é guiada pelo compromisso com a constante aprendizagem. Meu objetivo é tornar a vida das pessoas mais simples e eficaz, aplicando a tecnologia de forma prática. Cada linha de código que escrevo é um passo em direção a um mundo mais conectado.
+  Minha jornada como desenvolvedor Back-End, é guiada pelo compromisso com a constante aprendizagem. Meu objetivo é tornar a vida das pessoas mais simples e eficaz, aplicando a tecnologia de forma prática. Cada linha de código que escrevo é um passo em direção a um mundo mais conectado.
   </div><br/>
   
   <div align="center">
