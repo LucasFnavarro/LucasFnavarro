@@ -7,7 +7,7 @@
   </div>
   <div style="display: inline_block" align="center"><br>
       <img align="center" alt="dotnet" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"/> 
-      <img align="center" alt="dotnet" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"/> 
+      <img align="center" alt="dotnet" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/> 
        <img align="center" alt="dotnet" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/> 
        <img align="center" alt="dotnet" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/> 
      </div>
