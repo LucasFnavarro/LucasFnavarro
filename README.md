@@ -6,7 +6,7 @@
   📚 Main Tecnologies 📚
   </div>
   <div style="display: inline_block" align="center"><br>
-      <img align="center" alt="dotnet" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"/> 
+      <img align="center" alt="dotnet" height="100" width="100" src="https://www.flaticon.com/br/icones-gratis/c-afiado"/> 
       <img align="center" alt="dotnet" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"/> 
        <img align="center" alt="dotnet" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/> 
        <img align="center" alt="dotnet" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/> 
