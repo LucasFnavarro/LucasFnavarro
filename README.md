@@ -10,6 +10,7 @@
        <img align="center" alt="sqlserver" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/> 
        <img align="center" alt="php" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/> 
        <img align="center" alt="mysql" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/> 
+       <img align="center" alt="mysql" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"/> 
      </div>
   <br/>
   <div align="center">
