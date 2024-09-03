@@ -3,7 +3,7 @@
   </div> <br/><br/>
   
   <div align="center">
-  📚 Main Tecnologies 📚
+  <h3>📚 Main Tecnologies 📚</h3>
   </div>
   <div style="display: inline_block" align="center"><br>
        <img align="center" alt="mysql" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
