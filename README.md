@@ -3,18 +3,18 @@
   </div> <br/><br/>
   
   <div align="center">
-  <h3>📚 Main Tecnologies 📚</h3>
+  <h4>📚 Main Tecnologies 📚</h4>
   </div>
   <div style="display: inline_block" align="center"><br>
-       <img align="center" alt="mysql" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
-       <img align="center" alt="mysql" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg"/>
-       <img align="center" alt="mysql" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
-      <img align="center" alt="mysql" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-       <img align="center" alt="mysql" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-       <img align="center" alt="mysql" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
-       <img align="center" alt="mysql" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>
-       <img align="center" alt="mysql" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"/>
-       <img align="center" alt="mysql" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg"/>
+       <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
+       <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg"/>
+       <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
+      <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+       <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+       <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
+       <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>
+       <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"/>
+       <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg"/>
      </div>
   <br/>
   <div align="center">
