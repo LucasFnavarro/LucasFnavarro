@@ -5,7 +5,10 @@
   <div align="center">
   <h4>📚 Main Tecnologies 📚</h4>
   </div>
+  
   <div style="display: inline_block" align="center"><br>
+      <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
+      <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-line-wordmark.svg"/>
        <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
        <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg"/>
        <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
