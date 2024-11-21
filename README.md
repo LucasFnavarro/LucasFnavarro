@@ -3,7 +3,7 @@
   </div> <br/><br/>
   
   <div align="center">
-  <h4>Tecnologies Que Utilizo📚</h4>
+  <h4>Tecnologias Que Utilizo📚</h4>
   </div>
   
   <div style="display: inline_block" align="center"><br>
