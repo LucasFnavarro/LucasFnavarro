@@ -3,7 +3,7 @@
   </div> <br/><br/>
   
   <div align="center">
-  <h4>📚 Main Tecnologies 📚</h4>
+  <h4>Tecnologies Que Utilizo📚</h4>
   </div>
   
   <div style="display: inline_block" align="center"><br>
@@ -24,7 +24,7 @@
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118318155/284230245-3cd8d013-4190-46ac-a0cf-763e1ba24f96.gif" widht="250" height="250" alt="Gif">
   </div>
   <div align="center">
-  🤓 About me  <br/>
+  🤓 Sobre mim  <br/>
     
   Minha jornada como desenvolvedor Full-Stack com foco em Back-end, é guiada pelo compromisso com a constante aprendizagem. Meu objetivo é tornar a vida das pessoas mais simples e eficaz, aplicando a tecnologia de forma prática. Cada linha de código que escrevo é um passo em direção a um mundo mais conectado.
   </div><br/>
