@@ -15,8 +15,10 @@
        <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
        <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
        <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>
+       <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"/>
        <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"/>
-     </div>
+       <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"/>
+    </div>
   <br/>
   <div align="center">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118318155/284230245-3cd8d013-4190-46ac-a0cf-763e1ba24f96.gif" widht="250" height="250" alt="Gif">
