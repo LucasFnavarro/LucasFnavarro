@@ -1,4 +1,4 @@
-<div>
+<div style="text-center">
     <h4>Tecnologias Que Utilizo📚</h4>
 </div>
   
