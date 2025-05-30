@@ -1,4 +1,6 @@
-  <h4>Tecnologias Que Utilizo📚</h4>
+<div>
+    <h4>Tecnologias Que Utilizo📚</h4>
+</div>
   
   <div style="display: inline_block" align="center"><br>
       <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
