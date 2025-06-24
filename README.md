@@ -13,7 +13,6 @@
        <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
        <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>
        <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"/>
-       <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"/>
        <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"/>
     </div>
   <br/>
