@@ -1,5 +1,9 @@
 <div align="center">
-  <h4>Tecnologias Que Utilizo 📚</h4>
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=400&lines=Oi,+eu+sou+o+Lucas;+Desenvolvedor+Full+Stack)
+</div>
+
+<div align="center">
+  <h1>Tecnologias Que Utilizo 📚</h1>
 </div>
 
 <div align="center">
