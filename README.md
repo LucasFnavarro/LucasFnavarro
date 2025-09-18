@@ -2,7 +2,7 @@
     <h4>Tecnologias Que Utilizo📚</h4>
 </div>
   
-  <div style="display: inline_block; align="center"><br>
+  <div style="display: inline_block; align="center">
       <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
       <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
       <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
