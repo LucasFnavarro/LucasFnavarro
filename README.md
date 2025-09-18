@@ -16,15 +16,25 @@
       <img align="center" alt="mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg"/>
       </div>
   <br/>
-  <div align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118318155/284230245-3cd8d013-4190-46ac-a0cf-763e1ba24f96.gif" widht="250" height="250" alt="Gif">
-  </div>
-  <div align="center">
-
-<div>
+  
+<div align="center">
     <h2>✨ Sobre mim</h2>
-<p>
-Sou desenvolvedor Full-Stack com foco em Back-end, apaixonado por transformar ideias em soluções reais.
-Gosto de criar sistemas escaláveis, organizados e fáceis de manter, aplicando boas práticas como SOLID, DDD e Clean Architecture.
-Atualmente, estou aprofundando meus estudos em Microservices e arquitetura distribuída.</p>
+        <p>
+        Sou desenvolvedor Full-Stack com foco em Back-end, apaixonado por transformar ideias em soluções reais.
+        Gosto de criar sistemas escaláveis, organizados e fáceis de manter, aplicando boas práticas como SOLID, DDD e Clean Architecture.
+        Atualmente, estou aprofundando meus estudos em Microservices e arquitetura distribuída.
+        </p>
+</div>
+
+
+<div align="center">
+    <h2>💡 O que procuro</h2>
+    <p>Estou aberto a oportunidades onde possa:</p>
+    <p>Criar soluções que impactem positivamente a vida das pessoas</p>
+    <p>Aprender com equipes experientes</p>
+    <p>Contribuir em projetos desafiadores, sempre com foco em qualidade e escalabilidade</p>
+</div>
+
+<div align="center">
+    📫 Onde me encontrar
 </div>
