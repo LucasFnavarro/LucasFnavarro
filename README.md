@@ -12,10 +12,12 @@
   <img alt="Next.js" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
   <img alt="TailwindCSS" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
   <img alt="Node.js" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"/>
+  <img alt="JavaScript" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg"/>
   <img alt="Prisma" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg"/>
   <img alt="HTML5" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
   <img alt="CSS3" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>
   <img alt="Docker" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"/>
+  <img alt="Docker" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg"/>
 </div>
 <br/>
 
