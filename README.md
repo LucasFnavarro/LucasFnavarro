@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F70000&width=600&lines=Oi,+eu+sou+o+Lucas.;Desenvolvedor+Full+Stack"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F90000&width=600&lines=Oi,+eu+sou+o+Lucas.;Desenvolvedor+Full+Stack"/>
 </div>
 
 <div align="center">
@@ -7,17 +7,17 @@
 </div>
 
 <div align="center">
-  <img alt="JavaScript" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-  <img alt="React" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
-  <img alt="Next.js" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
-  <img alt="TailwindCSS" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
-  <img alt="Node.js" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"/>
-  <img alt="JavaScript" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg"/>
-  <img alt="Prisma" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg"/>
-  <img alt="HTML5" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
-  <img alt="CSS3" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>
-  <img alt="Docker" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"/>
-  <img alt="Docker" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg"/>
+  <img alt="JavaScript" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+  <img alt="React" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
+  <img alt="Next.js" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
+  <img alt="TailwindCSS" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
+  <img alt="Node.js" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"/>
+  <img alt="JavaScript" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg"/>
+  <img alt="Prisma" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg"/>
+  <img alt="HTML5" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
+  <img alt="CSS3" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>
+  <img alt="Docker" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"/>
+  <img alt="Docker" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg"/>
 </div>
 <br/>
 
