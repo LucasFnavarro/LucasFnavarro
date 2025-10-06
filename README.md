@@ -7,6 +7,9 @@
 </div>
 
 <div align="center">
+  <img alt="JavaScript" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
+  <img alt="JavaScript" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"/>
+  <img alt="JavaScript" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"/>
   <img alt="JavaScript" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <img alt="React" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
   <img alt="Next.js" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
