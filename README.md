@@ -1,6 +1,6 @@
-<div style="display:flex; justify-content:center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F90000&width=600&lines=Oi,+eu+sou+o+Lucas.;Desenvolvedor+Full+Stack"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F90000&center=true&vCenter=true&width=600&height=100&lines=Oi,+eu+sou+o+Lucas.;Desenvolvedor+Full+Stack;Bem-vindo+ao+meu+perfil!">
+</p>
 
 <div align="center">
   <h1>Tecnologias Que Utilizo 📚</h1>
